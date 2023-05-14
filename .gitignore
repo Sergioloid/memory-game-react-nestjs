@@ -4,3 +4,4 @@ react-frontend/.idea
 nest-backend/node_modules
 nest-backend/.idea
 mongodb/*
+.idea
