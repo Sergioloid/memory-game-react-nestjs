@@ -2,6 +2,7 @@
 ## Preambolo
 In questo readme ho voluto descrivere a grandi linee le scelte fatte per il compimento della task.
 ## HOW TO START
+In primis clonate il repo.
 Basterà eseguire il file start.sh e lo script tirerà su 4 containers per rispettivamente:
 1. ambiente API
 2. ambiente Frontend
