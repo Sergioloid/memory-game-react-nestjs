@@ -1,1 +1,2 @@
-docker-compose up -d --build 
+@mkdir mongodb
+docker-compose up -d --build

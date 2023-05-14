@@ -1,7 +1,11 @@
 node_modules
 react-frontend/node_modules
+react-frontend/build
 react-frontend/.idea
+react-frontend/.env
 nest-backend/node_modules
 nest-backend/.idea
-mongodb/*
+nest-backend/.env
+nest-backend/dist
+mongodb
 .idea

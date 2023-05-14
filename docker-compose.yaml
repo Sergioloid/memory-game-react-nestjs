@@ -19,6 +19,8 @@ services:
     build:
       context: ./react-frontend
       dockerfile: ./Dockerfile
+      args:
+        REACT_APP_API_URL: http://localhost:8079/
     ports:
       - "8080:3000"
     networks:
