@@ -1,0 +1,3 @@
+interface StepProps {
+    callback: Function
+}
