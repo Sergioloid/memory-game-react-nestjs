@@ -3,7 +3,6 @@ version: '3'
 services:
   api:
     container_name: api
-    env_file: ./nest-backend/.env
     restart: unless-stopped
     build:
       context: ./nest-backend
